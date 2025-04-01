@@ -1,0 +1,40 @@
+Privacy Policy for AltWatch
+
+Effective Date: 01/04/2025
+
+1. Introduction
+Welcome to AltWatch. This bot is designed to help server administrators detect potential alternate accounts within their Discord servers. This Privacy Policy outlines how the bot collects, uses, and protects user data.
+
+2. Data Collection
+AltWatch may collect and process the following types of information:
+- User Account Information: Discord usernames, user IDs, and profile pictures to analyze account similarities.
+- Server Information: Mutual guilds shared by two users being analyzed.
+- Message Activity: A limited history of messages (e.g., timestamps, links, and activity frequency) to assess behavioral patterns.
+- Account Metadata: Account creation and server join dates for verification purposes.
+- User Status: Online presence and activity within the server.
+
+AltWatch does not store or retain any of this data beyond the duration of the analysis.
+
+3. How Data is Used
+The collected data is used exclusively for:
+- Identifying potential alternate accounts.
+- Providing a suspicion score and reasons to server administrators.
+- Improving bot performance and accuracy.
+
+4. Data Protection & Security
+- AltWatch does not store or share collected data.
+- All processing occurs in real-time within Discord servers.
+- No user data is transmitted to external servers or third parties.
+- Only authorized server members with the appropriate permissions can use the bot’s commands.
+
+5. User Control & Opt-Out
+- Users can request that their data not be analyzed by contacting the server administrator.
+- Server administrators can remove AltWatch at any time to stop data processing.
+
+6. Changes to This Policy
+We may update this Privacy Policy from time to time. Any changes will be posted here, and continued use of AltWatch constitutes acceptance of the updated policy.
+
+7. Contact Information
+For questions or concerns regarding this Privacy Policy, please contact the bot developer through Discord or the official support channel.
+
+By using AltWatch, you agree to the terms outlined in this Privacy Policy.
