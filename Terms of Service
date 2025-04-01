@@ -1,0 +1,52 @@
+Terms of Service for AltWatch
+
+Effective Date: 01/04/2025
+
+Welcome to AltWatch! By using this bot, you agree to the following terms and conditions. Please read them carefully.
+
+1. Acceptance of Terms
+By using AltWatch (hereinafter referred to as "the Bot"), you (the user) agree to comply with and be bound by these Terms of Service (TOS). If you do not agree with these terms, do not use the Bot.
+
+2. Use of the Bot
+- AltWatch is a tool designed to help server administrators detect potential alternate accounts (alts) within their Discord servers by analyzing certain user data.
+- You must be at least 13 years old to use this Bot. By using this Bot, you confirm that you meet the age requirement.
+
+3. Data Collection and Usage
+AltWatch collects and processes the following data:
+- User Information: Discord usernames, user IDs, profile pictures, and status to identify similarities between accounts.
+- Server Information: Mutual guilds (servers) shared by users being analyzed.
+- Message History: Limited history of messages, including timestamps, links, and activity, to assess behavioral patterns.
+- Account Metadata: Account creation dates and server join dates.
+  
+This data is used solely to identify potential alternate accounts and provide server administrators with a suspicion score. AltWatch does not store or retain user data beyond the duration of the analysis.
+
+4. User Responsibilities
+- You agree not to use AltWatch for any unlawful purposes, including violating the rights of others.
+- You are responsible for ensuring that you have the necessary permissions to use the Bot in your server, including permission from server members whose data may be processed.
+- AltWatch must be used in compliance with Discord’s Terms of Service and Community Guidelines.
+
+5. Limitations of Liability
+- AltWatch is provided "as is." The creators of the Bot do not guarantee the accuracy of the suspicion score or any results produced by the Bot.
+- We are not liable for any damages, losses, or other consequences resulting from using the Bot.
+  
+6. Data Protection and Privacy
+- AltWatch does not store any personal data beyond the duration of the analysis. All data processing happens in real-time within the Discord server, and no information is shared with external servers or third parties.
+- Users can contact server administrators to request that their data not be processed by AltWatch.
+
+7. Termination of Use
+- Server administrators can remove AltWatch from their server at any time to stop data collection and processing.
+- AltWatch reserves the right to suspend or terminate any server’s access to the Bot if we determine that these terms are being violated.
+
+8. Updates to Terms of Service
+We may update these Terms of Service from time to time. Any changes will be posted here, and continued use of the Bot constitutes acceptance of the updated terms.
+
+9. Indemnification
+You agree to indemnify and hold harmless the creators and developers of AltWatch, its affiliates, and employees from any claims, damages, or losses resulting from your use of the Bot.
+
+10. Governing Law
+These Terms of Service are governed by the laws of [Insert Jurisdiction] and any disputes will be subject to the exclusive jurisdiction of the courts in [Insert Jurisdiction].
+
+11. Contact Information
+For any questions or concerns regarding these Terms of Service, please contact the bot developers via Discord or the official support channel.
+
+By using AltWatch, you acknowledge that you have read, understood, and agree to these Terms of Service.
